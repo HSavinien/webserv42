@@ -1,0 +1,12 @@
+.DS_store
+.vs_code
+*.o
+*.a
+.*.sw*
+*.dSYM
+*.tar.gz
+a.out
+
+
+webserv
+webserv_sani
